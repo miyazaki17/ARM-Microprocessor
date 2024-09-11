@@ -1,7 +1,4 @@
-// arm_single.sv
-// David_Harris@hmc.edu and Sarah_Harris@hmc.edu 25 June 2013
-// Single-cycle implementation of a subset of ARMv4
-// 
+
 // run 210
 // Expect simulator to print "Simulation succeeded"
 // when the value 7 is written to address 100 (0x64)
